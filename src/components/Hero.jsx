@@ -25,7 +25,7 @@ export default function Hero() {
       {/* Content */}
       <div className="relative z-20 h-full flex flex-col justify-center items-center text-center px-4 text-white animate-fade-in">
         <h1 className="text-4xl md:text-6xl font-bold drop-shadow-lg mb-2 text-[#ffffff]">
-         Tareynhema Homestay
+         Tareynehma Homestay
         </h1>
 
         <p className="text-base md:text-xl font-thin text-white/80 mb-4">
