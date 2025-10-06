@@ -7,7 +7,7 @@ const rooms = [
   {
     id: 1,
     name: "Room 1",
-    description: "A cozy room with hillside views and traditional décor.",
+    description: "A cozy room for two .",
     images: ["/ima/Ra.jpeg", "/ima/Rab.jpeg", "/ima/Rac.jpeg"],
     price: 1200,
   },
@@ -21,7 +21,7 @@ const rooms = [
   {
     id: 3,
     name: "Room 3",
-    description: "Spacious room with natural lighting and warm ambiance.",
+    description: "Spaciou room for two.",
     images: ["/ima/Rc.jpeg", "/ima/Rca.jpeg", "/ima/Rcb.jpeg"],
     price: 1200,
   },
@@ -173,7 +173,7 @@ export default function Rooms({ showHero }) {
                         </div>
                         <div className="flex items-center gap-2">
                           <FaUtensils className="text-black" />
-                          Breakfast, Lunch & Dinner Included
+                           Lunch & Dinner Included
                         </div>
                         <div className="flex items-center gap-2">
                           <FaBed className="text-black" />
