@@ -1,5 +1,5 @@
 import TypedText from "./TypedText";
-import heroBg from "../assets/tareynehmabg.jpeg";
+import heroBg from "../assets/Home2.jpeg";
 import { Link } from "react-router-dom";
 import { FaArrowDown } from "react-icons/fa";
 
