@@ -173,7 +173,7 @@ export default function Rooms({ showHero }) {
                         </div>
                         <div className="flex items-center gap-2">
                           <FaUtensils className="text-black" />
-                           Lunch & Dinner Included
+                           Breakfast & Dinner Included
                         </div>
                         <div className="flex items-center gap-2">
                           <FaBed className="text-black" />
